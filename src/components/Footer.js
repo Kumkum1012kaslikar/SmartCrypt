@@ -41,14 +41,14 @@ export default function App() {
             <MDBIcon fab icon="instagram" />
           </a>
           <a
-            href="https://www.linkedin.com/in/harsha-kaslikar-686544218/"
+            href="www.linkedin.com/in/kumkum-kaslikar-489290250"
             target="_blank"
             className="me-4 text-reset"
           >
             <MDBIcon fab icon="linkedin" />
           </a>
           <a
-            href="https://github.com/HKaslikar"
+            href="https://github.com/Kumkum1012kaslikar"
             target="_blank"
             className="me-4 text-reset"
           >
@@ -92,7 +92,7 @@ export default function App() {
               </p>
               
               <p>
-                <a   href="https://mail.google.com/mail/u/0/#inbox?compose=new" className="text-reset" target="_blank">
+                <a   href="https://mail.google.com/mail/u/0/#inbox" className="text-reset" target="_blank">
                   Help
                 </a>
               </p>
@@ -102,19 +102,19 @@ export default function App() {
               <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
               <p>
                 <MDBIcon icon="home" className="me-2" />
-                LNCT&S, BHOPAL,INDIA
+                LNCT, BHOPAL,INDIA
               </p>
               <p>
                 <MDBIcon icon="envelope" className="me-1" />
                 <a
-                  href="https://mail.google.com/mail/u/0/#inbox?compose=new"
+                  href="https://mail.google.com/mail/u/0/#inbox"
                   className="text-reset"
                 >
-                  harshakaslikar01@gmail.com
+                  kumkumpawar1012@gmail.com
                 </a>
               </p>
               <p>
-                <MDBIcon icon="phone" className="me-3" /> +91- 000-000-0000
+                <MDBIcon icon="phone" className="me-3" /> +91- 7000273683
               </p>
             </MDBCol>
           </MDBRow>
@@ -125,9 +125,9 @@ export default function App() {
         className="text-center p-4"
         style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}
       >
-        © 2022 Copyright : 
+        © 2026 Copyright : 
         <a className="text-reset fw-bold" href="#">
-           Harsha Kaslikar & Team
+           Kumkum Kaslikar
         </a>
       </div>
     </MDBFooter>
