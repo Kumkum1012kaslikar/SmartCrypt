@@ -22,6 +22,7 @@ export default function App() {
           <a
             href="https://www.facebook.com/harsha.kaslikarpawar/"
             target="_blank"
+            rel="noopener noreferrer"
             className="me-4 text-reset"
           >
             <MDBIcon fab icon="facebook-f" />
@@ -29,6 +30,7 @@ export default function App() {
           <a
             href="https://twitter.com"
             target="_blank"
+            rel="noopener noreferrer"
             className="me-4 text-reset"
           >
             <MDBIcon fab icon="twitter" />
@@ -36,6 +38,7 @@ export default function App() {
           <a
             href="https://www.instagram.com/harsha_kaslikar/"
             target="_blank"
+            rel="noopener noreferrer"
             className="me-4 text-reset"
           >
             <MDBIcon fab icon="instagram" />
@@ -43,6 +46,7 @@ export default function App() {
           <a
             href="www.linkedin.com/in/kumkum-kaslikar-489290250"
             target="_blank"
+            rel="noopener noreferrer"
             className="me-4 text-reset"
           >
             <MDBIcon fab icon="linkedin" />
@@ -50,6 +54,7 @@ export default function App() {
           <a
             href="https://github.com/Kumkum1012kaslikar"
             target="_blank"
+            rel="noopener noreferrer"
             className="me-4 text-reset"
           >
             <MDBIcon fab icon="github" />
@@ -92,7 +97,7 @@ export default function App() {
               </p>
               
               <p>
-                <a   href="https://mail.google.com/mail/u/0/#inbox" className="text-reset" target="_blank">
+                <a   href="https://mail.google.com/mail/u/0/#inbox" className="text-reset" target="_blank" rel="noopener noreferrer">
                   Help
                 </a>
               </p>
@@ -126,9 +131,9 @@ export default function App() {
         style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}
       >
         © 2026 Copyright : 
-        <a className="text-reset fw-bold" href="#">
+        <span className="text-reset fw-bold ms-1">
            Kumkum Kaslikar
-        </a>
+        </span>
       </div>
     </MDBFooter>
   );
